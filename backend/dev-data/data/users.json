@@ -1,0 +1,32 @@
+[
+  {
+    "_id": "5c8a1d5b0190b214360dc057",
+    "name": "Joe Biden",
+    "email": "biden@biden.io",
+    "role": "user",
+    "photo": "user-1.jpg",
+    "password": "$2a$12$Q0grHjH9PXc6SxivC8m12.2mZJ9BbKcgFpwSG4Y1ZEII8HJVzWeyS",
+    "phone": "0123456789",
+    "address": "Mitho"
+  },
+  {
+    "_id": "5c8a1dfa2f8fb814b56fa181",
+    "name": "Donal Trump",
+    "email": "loulou@example.com",
+    "role": "admin",
+    "photo": "user-2.jpg",
+    "password": "$2a$12$hP1h2pnNp7wgyZNRwPsOTeZuNzWBv7vHmsR3DT/OaPSUBQT.y0S..",
+    "phone": "0123897789",
+    "address": "american"
+  },
+  {
+    "_id": "5c8a1e1a2f8fb814b56fa182",
+    "name": "Obama canada",
+    "email": "obama@example.com",
+    "role": "user",
+    "photo": "user-3.jpg",
+    "password": "$2a$12$9nFqToiTmjgfFVJiQvjmreLt4k8X4gGYCETGapSZOb2hHa55t0dDq",
+    "phone": "0190856789",
+    "address": "china"
+  }
+]

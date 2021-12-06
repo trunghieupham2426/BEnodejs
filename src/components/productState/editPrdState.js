@@ -1,0 +1,17 @@
+export const editPrdState = () => ({
+  id: '',
+  name: '',
+  category: '',
+  brand: '',
+  price: '',
+  status: '',
+  discount: '',
+  description: '',
+  photo: [],
+  author: '',
+  showPhoto: [],
+  amount: '',
+  isActive: '',
+  deletePhotos: [],
+  originalPhotos: [],
+});

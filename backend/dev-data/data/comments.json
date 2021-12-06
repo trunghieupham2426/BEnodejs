@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "5c8a34ed14eb5c17645c9108",
+    "comment": "Cras mollis nisi parturient mi nec aliquet suspendisse sagittis eros condimentum scelerisque taciti mattis praesent feugiat eu nascetur a tincidunt",
+
+    "author": "5c8a1d5b0190b214360dc057",
+    "blog": "6158aa99f9ad0117c8a56ff6"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9109",
+    "comment": "Tempus curabitur faucibus auctor bibendum duis gravida tincidunt litora himenaeos facilisis vivamus vehicula potenti semper fusce suspendisse sagittis!",
+
+    "author": "5c8a1dfa2f8fb814b56fa181",
+    "blog": "6158aa99f9ad0117c8a56ff6"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c910a",
+    "comment": "Convallis turpis porttitor sapien ad urna efficitur dui vivamus in praesent nulla hac non potenti!",
+
+    "author": "5c8a1e1a2f8fb814b56fa182",
+    "blog": "6158aa99f9ad0117c8a56ff6"
+  },
+  {
+    "_id": "5c8a35b614eb5c17645c910b",
+    "comment": "Habitasse scelerisque class quam primis convallis integer eros congue nulla proin nam faucibus parturient.",
+
+    "author": "5c8a1d5b0190b214360dc057",
+    "blog": "6158aa99f9ad0117c8a56ff6",
+    "replies": ["5c8a364c14eb5c17645c910c", "5c8a368c14eb5c17645c910d"]
+  },
+  {
+    "_id": "5c8a364c14eb5c17645c910c",
+    "comment": "1 outside",
+
+    "author": "5c8a1dfa2f8fb814b56fa181",
+    "blog": "6158aa99f9ad0117c8a56ff6",
+    "parentId": "5c8a35b614eb5c17645c910b"
+  },
+  {
+    "_id": "5c8a368c14eb5c17645c910d",
+    "comment": "2 outside",
+
+    "author": "5c8a1e1a2f8fb814b56fa182",
+    "blog": "6158aa99f9ad0117c8a56ff6",
+    "parentId": "5c8a35b614eb5c17645c910b"
+  }
+]
